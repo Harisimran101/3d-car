@@ -47,7 +47,7 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Tour</MenubarTrigger>
           <MenubarContent>
-            <MenubarItem>Super Bowl LIX</MenubarItem>
+            <MenubarItem>Grand National Tour with SZA</MenubarItem>
             <MenubarSeparator />
             <MenubarItem inset>
               Reload <MenubarShortcut>⌘R</MenubarShortcut>
