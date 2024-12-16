@@ -21,6 +21,8 @@ export function RSVPForm() {
       <CardHeader>
         <CardTitle>join mailing list</CardTitle>
         <CardDescription>get notified about more ideas</CardDescription>
+
+        
       </CardHeader>
       <CardContent>
         {!isSubmitted ? (

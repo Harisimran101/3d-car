@@ -54,6 +54,8 @@ export function ColorSelector({ onColorSelect, selectedColor }: ColorSelectorPro
         </div>
       </div>
       <div className="color-picker-container-image mt-8 flex justify-center">
+
+        
        
         <img 
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/is-there-any-meaning-behind-the-stylised-a-on-the-pglang-v0-c58kpvpfocad1-8SSWe0C442Aexwxpezyu1A9FxRfGnA.webp"

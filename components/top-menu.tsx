@@ -48,17 +48,8 @@ export function TopMenu() {
           <MenubarTrigger>Tour</MenubarTrigger>
           <MenubarContent>
             <a href="https://www.ticketmaster.com/kendrick-lamar-tickets/artist/1480454?landing=c&awtrc=true&c=SEM_TMMCONCERTS_ggl_21989646174_173196965953_kendrick%20lamar%202025%20tickets&GCID=0&&gad_source=1&gclid=CjwKCAiA9vS6BhA9EiwAJpnXw60tuMkjOAjGtpb_tFzDVy7L8xuTfMAVHX6YaJ9KBDVbTgUqGeg09xoCQZUQAvD_BwE&gclsrc=aw.ds" target="_blank"><MenubarItem>Grand National Tour with SZA</MenubarItem></a>
-            <MenubarSeparator />
-            <MenubarItem inset>
-              Reload <MenubarShortcut>⌘R</MenubarShortcut>
-            </MenubarItem>
-            <MenubarItem disabled inset>
-              Force Reload <MenubarShortcut>⇧⌘R</MenubarShortcut>
-            </MenubarItem>
-            <MenubarSeparator />
-            <MenubarItem inset>Toggle Fullscreen</MenubarItem>
-            <MenubarSeparator />
-            <MenubarItem inset>Hide Sidebar</MenubarItem>
+        
+          
           </MenubarContent>
         </MenubarMenu>
         <MenubarMenu>
