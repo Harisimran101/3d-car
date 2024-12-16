@@ -14,16 +14,7 @@ export function TopMenu() {
       <div className="flex items-center">
         <MenubarMenu>
           <MenubarTrigger>GNX</MenubarTrigger>
-          <MenubarContent>
-            <MenubarItem>
-              New Tab <MenubarShortcut>⌘T</MenubarShortcut>
-            </MenubarItem>
-            <MenubarItem>New Window</MenubarItem>
-            <MenubarSeparator />
-            <MenubarItem>Share</MenubarItem>
-            <MenubarSeparator />
-            <MenubarItem>Print</MenubarItem>
-          </MenubarContent>
+         
         </MenubarMenu>
         <MenubarMenu>
           <MenubarTrigger>Music</MenubarTrigger>
@@ -55,7 +46,7 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Merch</MenubarTrigger>
           <MenubarContent>
-            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>GNX products</MenubarItem></a>
+            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>GNX Products</MenubarItem></a>
        
           </MenubarContent>
         </MenubarMenu>
