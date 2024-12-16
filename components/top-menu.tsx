@@ -28,7 +28,7 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Music</MenubarTrigger>
           <MenubarContent>
-            <MenubarItem>Amazon Music</MenubarItem>
+            <a href="https://music.amazon.com/albums/B0DNTR5VQB" target="_blank"><MenubarItem>Amazon Music</MenubarItem></a>
             <a href="https://music.apple.com/us/album/1781270319?app=music&at=1010lIJf&ct=LFV_4cb5ead6d12bf4b07000d197c50dd249&itscg=30440&itsct=catchall_p4&lId=211586042&cId=none&sr=4&src=Linkfire&ls=1" target="_blank"><MenubarItem>Apple Music</MenubarItem></a>
             <a href="https://www.youtube.com/watch?v=YwUQ_5iV9pY&list=PLjB_8hSS2lEPSOivtbvDDugFuCeqC4_xm&src=Linkfire&lId=4a727016-6ded-42d7-b9b7-28e5a0e4025c&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751" target="_blank"><MenubarItem>YouTube</MenubarItem></a>
             <MenubarItem>Tidal</MenubarItem>
@@ -64,14 +64,14 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Merch</MenubarTrigger>
           <MenubarContent>
-            <MenubarItem>GNX Tee</MenubarItem>
+            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>GNX Tee</MenubarItem></a>
             <MenubarSeparator />
-            <MenubarItem>
+            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>
              GNX Hoodie <MenubarShortcut>⌘D</MenubarShortcut>
-            </MenubarItem>
-            <MenubarItem>
+            </MenubarItem></a>
+            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>
              GNX Fitted <MenubarShortcut>⇧⌘I</MenubarShortcut>
-            </MenubarItem>
+            </MenubarItem></a>
           </MenubarContent>
         </MenubarMenu>
       </div>
