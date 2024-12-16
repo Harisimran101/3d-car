@@ -64,14 +64,8 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Merch</MenubarTrigger>
           <MenubarContent>
-            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>GNX Tee</MenubarItem></a>
-            <MenubarSeparator />
-            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>
-             GNX Hoodie <MenubarShortcut>⌘D</MenubarShortcut>
-            </MenubarItem></a>
-            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>
-             GNX Fitted <MenubarShortcut>⇧⌘I</MenubarShortcut>
-            </MenubarItem></a>
+            <a href="https://shop.my-gnx.com/" target="_blank"><MenubarItem>GNX products</MenubarItem></a>
+       
           </MenubarContent>
         </MenubarMenu>
       </div>
