@@ -17,6 +17,35 @@ a {
   cursor: pointer !important;
 }
 
+input {
+  margin-top: 12px;
+  padding: 8px 10px;
+  border: 1px solid rgba(128, 128, 128, 0.596);
+  border-radius: 9px;
+}
+
+.email-form div {
+   display: flex;
+   flex-direction: column;
+   align-items:flex-start;
+   gap: 12px;
+}
+
+.email-form div button {
+  background: black;
+  padding: 8px 15px;
+  color: white;
+  border-radius: 9px;
+  font-size: 15px;
+  border: 0;
+}
+
+.email-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
 .close-btn {
  display: none;
 }
