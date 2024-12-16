@@ -29,10 +29,10 @@ export function TopMenu() {
           <MenubarTrigger>Music</MenubarTrigger>
           <MenubarContent>
             <MenubarItem>Amazon Music</MenubarItem>
-            <MenubarItem>Apple Music</MenubarItem>
-            <MenubarItem>YouTube</MenubarItem>
+            <a href="https://music.apple.com/us/album/1781270319?app=music&at=1010lIJf&ct=LFV_4cb5ead6d12bf4b07000d197c50dd249&itscg=30440&itsct=catchall_p4&lId=211586042&cId=none&sr=4&src=Linkfire&ls=1" target="_blank"><MenubarItem>Apple Music</MenubarItem></a>
+            <a href="https://www.youtube.com/watch?v=YwUQ_5iV9pY&list=PLjB_8hSS2lEPSOivtbvDDugFuCeqC4_xm&src=Linkfire&lId=4a727016-6ded-42d7-b9b7-28e5a0e4025c&cId=d3d58fd7-4c47-11e6-9fd0-066c3e7a8751" target="_blank"><MenubarItem>YouTube</MenubarItem></a>
             <MenubarItem>Tidal</MenubarItem>
-            <MenubarItem>Soundcloud</MenubarItem>
+            <a href="https://soundcloud.com/kendrick-lamar-music/sets/gnx?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"><MenubarItem>Soundcloud</MenubarItem></a>
           </MenubarContent>
         </MenubarMenu>
       </div>
@@ -47,7 +47,7 @@ export function TopMenu() {
         <MenubarMenu>
           <MenubarTrigger>Tour</MenubarTrigger>
           <MenubarContent>
-            <MenubarItem>Super Bowl LIX</MenubarItem>
+            <a href="https://www.ticketmaster.com/kendrick-lamar-tickets/artist/1480454?landing=c&awtrc=true&c=SEM_TMMCONCERTS_ggl_21989646174_173196965953_kendrick%20lamar%202025%20tickets&GCID=0&&gad_source=1&gclid=CjwKCAiA9vS6BhA9EiwAJpnXw60tuMkjOAjGtpb_tFzDVy7L8xuTfMAVHX6YaJ9KBDVbTgUqGeg09xoCQZUQAvD_BwE&gclsrc=aw.ds" target="_blank"><MenubarItem>Grand National Tour with SZA</MenubarItem></a>
             <MenubarSeparator />
             <MenubarItem inset>
               Reload <MenubarShortcut>⌘R</MenubarShortcut>
