@@ -53,9 +53,14 @@ export function ColorSelector({ onColorSelect, selectedColor }: ColorSelectorPro
           ))}
         </div>
       </div>
-      <div className="color-picker-container-image mt-12 flex justify-center">
-        <p>Created by Mayowa</p>
-        
+      <div className="color-picker-container-image mt-8 flex justify-center">
+       
+        <img 
+          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/is-there-any-meaning-behind-the-stylised-a-on-the-pglang-v0-c58kpvpfocad1-8SSWe0C442Aexwxpezyu1A9FxRfGnA.webp"
+          alt="pgLang"
+          className="h-12 w-auto object-contain"
+        />
+          <p className="credits-text">an idea by <a className="credits-link" href="https://www.instagram.com/_mayowa/" target="_blank">mayowa</a></p>
       </div>
     </div>
   )

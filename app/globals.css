@@ -13,8 +13,22 @@ body {
   }
 }
 
+a {
+  cursor: pointer !important;
+}
+
 .close-btn {
  display: none;
+}
+
+.credits-text {
+  position: absolute;
+  bottom: -15px;
+}
+
+.credits-link {
+  color: rgb(255, 121, 248);
+  font-weight: 600;
 }
 
 .bi-spotify {

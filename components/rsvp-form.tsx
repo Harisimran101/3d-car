@@ -20,7 +20,7 @@ export function RSVPForm() {
     <Card className="w-full max-w-md">
       <CardHeader>
         <CardTitle>join mailing list</CardTitle>
-        <CardDescription>get notified about upcoming events and releases</CardDescription>
+        <CardDescription>get notified about more ideas</CardDescription>
       </CardHeader>
       <CardContent>
         {!isSubmitted ? (
