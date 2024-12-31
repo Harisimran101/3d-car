@@ -31,6 +31,10 @@ input {
    gap: 12px;
 }
 
+button {
+   cursor: pointer;
+}
+
 .email-form div button {
   background: black;
   padding: 8px 15px;
