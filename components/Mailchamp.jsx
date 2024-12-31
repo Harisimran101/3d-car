@@ -3,7 +3,7 @@ import { useEffect, useRef } from "react"
 const url = process.env.NEXT_PUBLIC_MAILCHIMP_URL
 
 
-const SimpleForm = () => <MailchimpSubscribe  className="ss" url={url}/>
+const SimpleForm = () => <MailchimpSubscribe  url={url}/>
 
 
 export default function Mailchamp(){
