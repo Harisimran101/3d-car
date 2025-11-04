@@ -80,7 +80,7 @@ function Lightformers({ positions = [2, 0, 2, 0, 2, 0, 2, 0] }: { positions?: nu
 }
 
 function CarModel({ color = '#000000' }: { color: string }) {
-  const { scene, materials } = useGLTF('https://drive.usercontent.google.com/download?id=1JrAXrKyY4IVyQ8RfnWOPmi90n1LQmr3f&export=download&authuser=0&confirm=t&uuid=7fc42003-94ef-4050-b4cc-ec7d301a3c8f&at=ALoNOgktgTYrt6PFXBp7PRSmw8Ov:1749598496748') as any;
+  const { scene, materials } = useGLTF('https://3co96ix8u6.ucarecd.net/c70309a3-cdfb-498d-8b3f-5adb6622d9b1/') as any;
   const { gl } = useThree();
   const logoTexture = useTexture('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PGLang-uoYmHb410iObvXNOst1A8oM2M2LvCo.webp');
   const roofLogoTexture = useTexture('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2.jpg-6LCo12WBkqBhclyhv39ALvgeRlMwdg.jpeg');
